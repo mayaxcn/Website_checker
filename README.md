@@ -1,7 +1,7 @@
 # Website_checker
 通过持续检测网站访问耗时了解网站访问质量
 
-### 1.WebChecker参数说明
+### 1.WebCheck/app.config参数说明
 ```xml
 <!--数据库连接串（MYSQL 5.7）-->
 <add key="mysqlConn" value="********************" />
