@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCheck", "..\..\..\Desktop\KJDSDashboard\WebCheck\WebCheck.csproj", "{07FF8C07-8E96-47D5-B5E9-21AF6150654C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCheck_Dashboard", "..\..\..\Desktop\KJDSDashboard\WebCheck_Dashboard\WebCheck_Dashboard.csproj", "{FD415D56-9F45-4DF7-8D11-D39EDAC53509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FF8C07-8E96-47D5-B5E9-21AF6150654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FF8C07-8E96-47D5-B5E9-21AF6150654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FF8C07-8E96-47D5-B5E9-21AF6150654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FF8C07-8E96-47D5-B5E9-21AF6150654C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD415D56-9F45-4DF7-8D11-D39EDAC53509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD415D56-9F45-4DF7-8D11-D39EDAC53509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD415D56-9F45-4DF7-8D11-D39EDAC53509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD415D56-9F45-4DF7-8D11-D39EDAC53509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03CEC1A5-FE77-4446-BED0-84138214D97C}
+	EndGlobalSection
+EndGlobal
